@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312534534473",
+    "project_id": "chat-app-ddc69",
+    "storage_bucket": "chat-app-ddc69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312534534473:android:c40efcb233528130b27298",
+        "android_client_info": {
+          "package_name": "com.moace.chatApp.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqnofb3UijiHiBra9NJk7S9IxN6hzd5PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
